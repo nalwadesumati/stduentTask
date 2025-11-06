@@ -1,0 +1,7 @@
+body {
+  background-color: blanchedalmond;
+}
+
+#studentContainer i {
+  cursor: pointer;
+}
